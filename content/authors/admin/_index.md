@@ -1,34 +1,37 @@
 ---
 authors:
 - admin
-bio: Hello
+bio: Hello everyone, I'm Jinhao Luo, but you can call me Roger.
 education:
   courses:
   - course: Masters of Business Analytics
     year: 2021
+  - course: Bachelor of Business
+    year: 2019
 email: ""
 interests:
 - Statistics
-- Machine Learning
+- Data visualisation
+- Data Modelling
 organizations:
-- name: Stanford University
+- name: Monash University
   url: ""
-role: Professor of Artificial Intelligence
+role: Student of Business Analytics
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
-- icon: twitter
+- icon: facebook
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
+- icon: weixin
+  icon_pack: fab
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Jinhao Luo
 user_groups:
 - Researchers
 - Visitors

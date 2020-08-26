@@ -1,0 +1,25 @@
+---
+title: ETC5523 BLOG 1
+author: Jinhao Luo
+date: '2020-08-26'
+slug: etc5523-blog-1
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-08-26T17:26:04+10:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+# Nice plot
+
+```{r, echo = FALSE}
+hist(rnorm(100))
+```
+
